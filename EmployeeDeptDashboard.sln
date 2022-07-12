@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDeptDashboard", "EmployeeDeptDashboard\EmployeeDeptDashboard.csproj", "{5C7166A0-1B11-4E9F-83CD-C4B61D4B4178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C7166A0-1B11-4E9F-83CD-C4B61D4B4178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7166A0-1B11-4E9F-83CD-C4B61D4B4178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7166A0-1B11-4E9F-83CD-C4B61D4B4178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7166A0-1B11-4E9F-83CD-C4B61D4B4178}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2813C0B2-3387-4D53-BCFB-55D38F6AC11B}
+	EndGlobalSection
+EndGlobal
